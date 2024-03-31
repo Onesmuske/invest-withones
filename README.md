@@ -1,2 +1,2 @@
 # invest-withones
-Giving insight by analyst and predicting market trends
+Helps in predicting the disease of inputted symptoms 
